@@ -66,7 +66,7 @@ Frontend Developer | React.js | JavaScript | MERN Stack | Building real-world we
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinoth-dev&theme=react-dark&hide_border=true" alt="Vinoth's Contribution Graph" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinosaravanan&bg_color=0d1117&color=5bcdec&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
