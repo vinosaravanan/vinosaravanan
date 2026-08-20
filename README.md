@@ -47,10 +47,10 @@ Frontend Developer | React.js | JavaScript | MERN Stack | Building real-world we
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinoth-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Vinoth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth-dev&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vinosaravanan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vinosaravanan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinosaravanan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
