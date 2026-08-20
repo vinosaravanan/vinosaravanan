@@ -48,7 +48,8 @@ Frontend Developer | React.js | JavaScript | MERN Stack | Building real-world we
 ### 📈 GitHub Stats
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vinosaravanan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinosaravanan&theme=dark&hide_border=true&border_radius=7&card_width=450)](https://git.io/streak-stats)
 ![](https://streak-stats.demolab.com/?user=vinosaravanan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinosaravanan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
