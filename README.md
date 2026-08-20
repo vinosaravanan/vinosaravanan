@@ -65,9 +65,7 @@ Frontend Developer | React.js | JavaScript | MERN Stack | Building real-world we
 
 ### 📊 Contribution Activity
 
-<p align="center">
-[![vinosaravanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinosaravanan&bg_color=0d1117&color=5bcdec&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+[![vinosaravanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinosaravanan&bg_color=000000&color=ffffff&line=5a9e4c&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
