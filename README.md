@@ -1,12 +1,4 @@
-<h1 align="center">👋 Hi, I'm Vinoth</h1>
-
-<p align="center">
-I'm a Frontend Developer focused on building responsive and user-friendly web applications.
-</p>
-
-<p align="center">
-Frontend Developer | React.js | JavaScript | MERN Stack | Building real-world web applications 🚀
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vinoth&fontSize=60&fontColor=ffffff&desc=Frontend%20Developer%20%E2%9A%A1%20Building%20MERN%20Stack%20Apps&descAlignY=60&animation=fadeIn)
 
 ---
 
