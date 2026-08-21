@@ -19,8 +19,8 @@ Frontend Developer | React.js | JavaScript | MERN Stack | Building real-world we
 ---
 
 ### 🛠 Tech Stack
+<h1 align="center">👋 FrontEnd </h1>
 
-**Frontend**
 
 <div align="center">
 
@@ -35,26 +35,26 @@ Frontend Developer | React.js | JavaScript | MERN Stack | Building real-world we
 
 **Backend**
 
+<div align="center">
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JSON_Web_Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
+</div>
 **Tools**
-
+<div align="center">
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+</div>
 ---
 
 ### 📈 GitHub Stats
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinosaravanan&theme=dark&hide_border=true&border_radius=7&card_width=450)](https://git.io/streak-stats)
-![](https://streak-stats.demolab.com/?user=vinosaravanan&theme=dark&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinosaravanan&theme=dark&hide_border=true&border_radius=7&card_width=450)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinosaravanan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
