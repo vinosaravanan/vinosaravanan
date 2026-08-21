@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vinoth&fontSize=60&fontColor=ffffff&desc=Frontend%20Developer%20%E2%9A%A1%20Building%20MERN%20Stack%20Apps&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=341&color=gradient&text=Vinoth%20Saravanan&textBg=false&strokeWidth=0&descSize=29&desc=Full%20Stack%20Developer%20%E2%9A%A1%20Building%20Products%20That%20Matter&descAlignY=67&fontAlignY=41&reversal=false)
 
 ---
 
