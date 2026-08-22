@@ -35,6 +35,8 @@
 
 </div>
 
+---
+
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinosaravanan&theme=dark&hide_border=true&border_radius=7&card_width=450)](https://git.io/streak-stats)<br/>
