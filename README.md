@@ -3,10 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Vinoth%20Saravanan&textBg=false&strokeWidth=0&fontSize=45&descSize=18&desc=Full%20Stack%20Developer%20%F0%9F%9A%80%20Building%20Products%20That%20Matter&descAlignY=55&fontAlignY=35&reversal=false" width="100%" />
 
 </div>
----
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&letterSpacing=&pause=1000&center=true&vCenter=true&width=445&height=70&lines=+%F0%9F%94%8F++Auth+%7C+Api+%7C+Security;+%F0%9F%9B%A0%EF%B8%8FTurning+Complex+problem+into+Clean+Code;+%E2%9A%99%EF%B8%8F+Full-Stack+AI+Developer;+%F0%9F%93%8C+Building+Future+of+Intelligent+Code)](https://git.io/typing-svg)
 
+</div>
 ---
 
 ### 🛠 Tech Stack
