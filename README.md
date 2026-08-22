@@ -9,7 +9,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&letterSpacing=&pause=1000&center=true&vCenter=true&width=445&height=70&lines=+%F0%9F%94%8F++Auth+%7C+Api+%7C+Security;+%F0%9F%9B%A0%EF%B8%8FTurning+Complex+problem+into+Clean+Code;+%E2%9A%99%EF%B8%8F+Full-Stack+AI+Developer;+%F0%9F%93%8C+Building+Future+of+Intelligent+Code)](https://git.io/typing-svg)
 
 </div>
----
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-username) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
 
 ### 🛠 Tech Stack
 <div align="center">
